@@ -1,0 +1,22 @@
+dd{
+  border:1px solid black;
+  border-radius:5px;
+  padding:0 5px;
+  text-indent:10px;
+  position:relative;
+}
+dl, dd{
+  margin-left: 10px;
+}
+dl a{
+  text-decoration:none;
+  color:black;
+  border-bottom:1px solid black;
+  padding:0px 5px;
+}
+h2{
+  margin:0 50%;
+}
+.htmlclass{
+  width:70%;
+}
