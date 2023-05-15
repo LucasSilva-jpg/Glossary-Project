@@ -1,2 +1,2 @@
-RocketSeat Glossario Challenge made with HTML and CSS.
+RocketSeat Glossary Challenge made with HTML and CSS.
 
